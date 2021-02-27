@@ -4,6 +4,13 @@ slimed down version of [forked](https://github.com/yeokm1/pcb-covox-amp)
 
 ![main](/images/main.png)
 
+## Changelog
+
+* Added pads of inline DB25
+* Ordered Resistor Ladder
+* Added output selector so you dont have to populate amp abd use only one 3.5mm connector
+* Using RK097N potentiometers 
+
 # pcb-covox-amp
 A tiny sound card based on the Covox Speech Thing design which includes an LM386 amplifier. I have another design that just has the resistor ladder portion only without the amplifier which can be found [here](https://github.com/yeokm1/pcb-covox).
 
