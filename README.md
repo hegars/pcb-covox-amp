@@ -1,3 +1,9 @@
+# Modded verison of pcb-covox-amp
+
+slimed down version of [forked](https://github.com/yeokm1/pcb-covox-amp)
+
+![main](/images/main.png)
+
 # pcb-covox-amp
 A tiny sound card based on the Covox Speech Thing design which includes an LM386 amplifier. I have another design that just has the resistor ladder portion only without the amplifier which can be found [here](https://github.com/yeokm1/pcb-covox).
 
