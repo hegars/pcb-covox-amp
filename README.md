@@ -3,6 +3,7 @@
 slimed down version of [forked](https://github.com/yeokm1/pcb-covox-amp)
 
 ![main](/images/main.png)
+![back](/images/back.png)
 
 ## Changelog
 
